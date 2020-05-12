@@ -49,7 +49,7 @@ Create Account
 Add Tshirt To Cart
     ClickText               T-SHIRTS
     ClickText               Faded Short Sleeve T-shirts
-    TypeText                Quantity        5
+    TypeText                Quantity        3
     ClickText               Add to cart
 
 Start Suite
