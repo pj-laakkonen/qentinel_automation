@@ -28,8 +28,15 @@ Create Account
 	Sleep                   1
 	ClickText               Create an account
     Sleep                   1
+    ClickText               Mr.
     TypeText                First name      Pekka
     TypeText                Last name       Pekkanen
+    TypeSecret              Password        pwd666
+    TypeText                Company         Yritys Oy
+    TypeText                Address         Kivikatu 8
+    TypeText                City                Tampere
+    TypeText                Zip/Postal Code     12345
+    TypeText                Mobile phone        0401234567
 
 Start Suite
     # Handle suite setup here
