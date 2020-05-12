@@ -8,7 +8,7 @@ Library                 String
 ${BROWSER}              chrome
 ${HOME}                 http://automationpractice.com
 ${SIGNIN}               Sign in
-${EMAIL}                pekka.pekkanen@gmail.com
+${EMAIL}                pekka.pekkanen3@gmail.com
 ${PASSWORD}             secret007
 ${F_NAME}               Pekka
 ${L_NAME}               Pekkanen
