@@ -30,7 +30,7 @@ Open Sign In
 	ClickText               ${SIGNIN}
 
 Create Account
-    VerifyText              ${Create an account}
+    VerifyText              Create an account
 	TypeText                Email address   ${EMAIL}
 	ClickText               Create an account
 	VerifyText              Your personal information   15s
