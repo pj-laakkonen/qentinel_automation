@@ -53,13 +53,10 @@ Add Tshirt To Cart
     ClickText               Add to cart
 
 Start Suite
-    # Handle suite setup here
-    # Open applications etc. here
     [Documentation]        Starts Browser
     Open Browser           about:blank                 ${BROWSER}
 
 End Suite
     Close All Browsers
-    # Handle suite teardown actions here
-    # Write steps to close apps etc. here
+
 
