@@ -33,7 +33,7 @@ Create Account
     TypeText                Last name       Pekkanen
     TypeSecret              Password        pwd666
     DropDown                days            18
-    DropDown                months          03
+    DropDown                months          3
     DropDown                years           1977
     TypeText                Company         Yritys Oy
     TypeText                Address         Kivikatu 8
