@@ -24,7 +24,7 @@ Open Sign In
 	ClickText               ${SIGNIN}
 
 Create Account
-    Pass Execution
+    Pass Execution          Skip task Create Account
 	TypeText                Email address   pekka.pekkanen2@gmail.com
 	Sleep                   1
 	ClickText               Create an account
