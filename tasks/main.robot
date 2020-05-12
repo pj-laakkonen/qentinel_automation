@@ -17,7 +17,7 @@ Test the global home page
     [Tags]              Home
     Appstate            home
 
-Check for text on the Finnish home page
+Create an account
     Open Sign In
     Create Account
 
