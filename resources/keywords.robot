@@ -34,7 +34,8 @@ Create Account
     TypeSecret              Password        pwd666
     TypeText                Company         Yritys Oy
     TypeText                Address         Kivikatu 8
-    TypeText                City                Tampere
+    TypeText                City            New York City
+    DropDown                State           New York
     TypeText                Zip/Postal Code     12345
     TypeText                Mobile phone        0401234567
 
