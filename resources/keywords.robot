@@ -49,7 +49,9 @@ Create Account
 Add Tshirt To Cart
     ClickText               T-SHIRTS
     Sleep                   2
-    Click Element           //*[contains("Add to cart")]
+    ClickText               More
+    Sleep                   2
+    ClickText               Add to cart
 
 Start Suite
     # Handle suite setup here
