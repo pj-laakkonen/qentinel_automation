@@ -48,9 +48,7 @@ Create Account
 
 Add Tshirt To Cart
     ClickText               T-SHIRTS
-    Sleep                   2
     ClickText               Faded Short Sleeve T-shirts
-    Sleep                   2
     ClickText               Add to cart
 
 Start Suite
