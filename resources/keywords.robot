@@ -35,12 +35,15 @@ Create Account
     DropDown                days            18
     DropDown                months          3
     DropDown                years           1977
+    ClickText               Sign up for our newsletter!
+    ClickText               Receive special offers from our partners!
     TypeText                Company         Yritys Oy
     TypeText                Address         Kivikatu 8
     TypeText                City            New York City
     DropDown                State           New York
     TypeText                Zip/Postal Code     12345
     TypeText                Mobile phone        0401234567
+    ClickText               Register
 
 Start Suite
     # Handle suite setup here
