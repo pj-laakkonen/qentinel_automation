@@ -25,8 +25,9 @@ Open Sign In
 
 Create Account
 	TypeText                Email address   pekka.pekkanen@gmail.com
+	Sleep                   1
 	ClickText               Create an account
-    VerifyText              YOUR PERSONAL INFORMATION
+    Sleep                   1
     TypeText                First name      Pekka
     TypeText                Last name       Pekkanen
 
