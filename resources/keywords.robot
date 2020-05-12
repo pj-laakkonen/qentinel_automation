@@ -45,6 +45,10 @@ Create Account
     TypeText                Mobile phone        0401234567
     ClickText               Register
 
+Add T-shirt To Cart
+    ClickText               T-SHIRTS
+    ClickText               Add to cart
+
 Start Suite
     # Handle suite setup here
     # Open applications etc. here
