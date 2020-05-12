@@ -48,7 +48,6 @@ Create Account
 
 Add Tshirt To Cart
     ClickText               T-SHIRTS
-    ClickCheckbox           layered_id_attribute_group_2
     ClickText               Faded Short Sleeve T-shirts
     TypeText                Quantity        5
     ClickText               Add to cart
