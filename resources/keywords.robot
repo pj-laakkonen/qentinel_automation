@@ -24,7 +24,7 @@ Open Sign In
 	ClickText               ${SIGNIN}
 
 Create Account
-	TypeText                Email address   pekka.pekkanen@gmail.com
+	TypeText                Email address   pekka.pekkanen2@gmail.com
 	Sleep                   1
 	ClickText               Create an account
     Sleep                   1
@@ -45,7 +45,7 @@ Create Account
     TypeText                Mobile phone        0401234567
     ClickText               Register
 
-Add T-shirt To Cart
+Add Tshirt To Cart
     ClickText               T-SHIRTS
     ClickText               Add to cart
 

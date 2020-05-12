@@ -22,4 +22,4 @@ Create an account
     Create Account
 
 Add products to cart
-    Add T-shirt To Cart
+    Add Tshirt To Cart
